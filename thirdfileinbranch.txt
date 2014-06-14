@@ -1,1 +1,1 @@
-file changed in branch 
+dd for this line in vim file changed in branch 
